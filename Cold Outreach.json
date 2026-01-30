@@ -29,7 +29,7 @@
             },
             {
               "name": "Authorization",
-              "value": "Bearer apify_api_94ta9kan80EE27uDDBb19fGtg1rxRx25W4KA"
+              "value": "Bearer apify_api_token"
             }
           ]
         },
